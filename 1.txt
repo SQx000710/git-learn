@@ -5,3 +5,8 @@ public static void main(string[] args){
 
 Git is a version control system.
 Git is free software.
+
+java天下第一
+go天下第一
+
+相比java我喜欢go
